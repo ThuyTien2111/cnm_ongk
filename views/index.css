@@ -1,0 +1,16 @@
+button, input{
+    padding: 10px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1, h2{
+    justify-content: center;
+    color: coral;
+}
+th, td {
+    border: 1px solid coral;
+    text-align: center;
+}
